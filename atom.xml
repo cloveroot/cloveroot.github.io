@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cloveroom.github.io/</id>
     <title>Clover的岁月</title>
-    <updated>2019-10-04T03:24:59.552Z</updated>
+    <updated>2019-10-04T03:26:52.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cloveroom.github.io/"/>
     <link rel="self" href="https://cloveroom.github.io//atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://cloveroom.github.io//images/avatar.png</logo>
     <icon>https://cloveroom.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Clover的岁月</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://cloveroom.github.io//post/guan-yu</id>
+        <link href="https://cloveroom.github.io//post/guan-yu">
+        </link>
+        <updated>2015-10-07T03:19:49.000Z</updated>
+        <content type="html"><![CDATA[<p>Hey,Guys.<br>
+本站为第二站（cloveroom.github.io)第一站为（cloveroot.github.io)<br>
+欢迎来到clover的岁月<br>
+这里记录了以IT为主的心路历程，包括了我制作的各个发行版测/试版的镜像资源，以及所需要的各种工具等。当然更多的是我写的一些原创性的文章，尽管有些文章是通过翻译的形式呈现给大家，但是这中间夹杂着很多我的心得体会以及写作的思维模式。<br>
+这个博客从2011年开始就陆续更新了，之前的文章已经全部删除掉了。<br>
+从2011年开始接触Windows到现在开始转而使用Android，我觉得就是个积少成多水到渠成的过程。之前在Linux下面积累的经验可以让我更快地上手macOS，对于我来说macOS的生态要比Linux好很多，应用程序多，兼容性也不错，最最重要的是还有个shell，用它可以连通世界。<br>
+如果你想飞，那么请关注我，老司机带你一起飞保证不翻车！<br>
+关于我<br>
+姓名：李泽<br>
+性别：男<br>
+出生日期：2003<br>
+目前居住地：邢台<br>
+业余爱好：旅游,毽球,羽毛球,排球,台球,保龄球,徒步,摄影,音乐,美食<br>
+联络方式：<br>
+QQ: 2391248448</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学 Java 网络爬虫，需要哪些基础知识？]]></title>
         <id>https://cloveroom.github.io//post/xue-java-wang-luo-pa-chong-xu-yao-na-xie-ji-chu-zhi-shi</id>
