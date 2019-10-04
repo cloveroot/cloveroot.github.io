@@ -1,104 +1,136 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
- <head>
-    <meta charset="utf-8" />
-  <title>Clover的岁月</title>
-  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
-  <link rel="stylesheet" href="https://cloveroom.github.io//styles/main.css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-   <script src="https://cdn.staticfile.org/highlight.js/9.15.9/highlight.min.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
- </head>
- <body>
-     <div class="sidebar animated fadeInDown">
-   <div class="logo-title">
-    <div class="title">
-     <img src="https://cloveroom.github.io//images/avatar.png?v=1570160588104" style="width:127px;" />
+<html>
+  <head>
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Clover的岁月</title>
+<meta name="description" content="智者乐山  仁者乐水" />
+<link rel="shortcut icon" href="https://cloveroom.github.io//favicon.ico?v=1570178248775">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://cloveroom.github.io//styles/main.css">
 
-     <div class="description">
-      <p>智者乐山  仁者乐水</p>
-     </div>
-    </div>
-   </div>
-   <ul class="social-links">
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
+
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://cloveroom.github.io/">
+  <img class="avatar" src="https://cloveroom.github.io//images/avatar.png?v=1570178248775" alt="">
+  </a>
+  <h1 class="site-title">
+    Clover的岁月
+  </h1>
+  <p class="site-description">
+    智者乐山  仁者乐水
+  </p>
+  <div class="menu-container">
     
-
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
     
-
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
     
-
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
     
-
+      
+        <a href="https://cloveroom.github.io/post/guan-yu/" class="menu">
+          关于
+        </a>
+      
     
-
+      
+        <a href="https://cloveroom.github.io/tag/Q7jDYQVwr/" class="menu">
+          建设
+        </a>
+      
     
-
-    
-
-    
-
-    
-
-    
-
-   </ul>
-   <div class="footer">
-    <div class="by_farbox">
-   怕什么真理无穷 进一步有一步的欢喜
-QQ2391248448         2019@版权所有
-    </div>
-    
-
-    </div>
-   </div>
   </div>
-  <div class="main">
-      <div class="page-top animated fadeInDown">
-    <div class="nav">
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
 
-     <li><a  href="/">首页</a></li>
 
-     <li><a  href="/archives">归档</a></li>
+        <div class="tags-container">
+          
+            <a class="tag" href="https://cloveroom.github.io//tag/Q7jDYQVwr">建设</a>
+          
+        </div>
 
-     <li><a  href="/tags">标签</a></li>
+        <div class="site-footer">
+  怕什么真理无穷 进一步有一步的欢喜
+QQ2391248448         2019@版权所有 | 
+  <a class="rss" href="https://cloveroom.github.io//atom.xml" target="_blank">RSS</a>
+</div>
 
-     <li><a  href="https://cloveroom.github.io/post/guan-yu/">关于</a></li>
+<script>
+  hljs.initHighlightingOnLoad()
 
-     <li><a  href="https://cloveroom.github.io/tag/Q7jDYQVwr/">建设</a></li>
+  let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
 
+  // This should probably be throttled.
+  // Especially because it triggers during smooth scrolling.
+  // https://lodash.com/docs/4.17.10#throttle
+  // You could do like...
+  // window.addEventListener("scroll", () => {
+  //    _.throttle(doThatStuff, 100);
+  // });
+  // Only not doing it here to keep this Pen dependency-free.
 
-    </div>
-    <div class="information">
-     <div class="back_btn">
-      <li><a class="fa fa-chevron-left" onclick="window.history.go(-1)" style="display:none;"> </a></li>
-     </div>
-    </div>
-   </div>
-   <div class="autopagerize_page_element">
-    <div class="content">
-         
-     <div class="post animated fadeInDown">
-  <div class="tags-container">
-            
-              <a class="jinggetag" href="https://cloveroom.github.io//tag/Q7jDYQVwr">建设</a>
-            
+  window.addEventListener("scroll", event => {
+    let fromTop = window.scrollY;
 
-            
-          </div>
+    mainNavLinks.forEach((link, index) => {
+      let section = document.getElementById(decodeURI(link.hash).substring(1));
+      let nextSection = null
+      if (mainNavLinks[index + 1]) {
+        nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+      }
+      if (section.offsetTop <= fromTop) {
+        if (nextSection) {
+          if (nextSection.offsetTop > fromTop) {
+            link.classList.add("current");
+          } else {
+            link.classList.remove("current");    
+          }
+        } else {
+          link.classList.add("current");
+        }
+      } else {
+        link.classList.remove("current");
+      }
+    });
+  });
+
+</script>
 
       </div>
-     </div>
-    
-  
     </div>
-   </div>
-  </div>
-  <script src="https://cloveroom.github.io//media/scripts/jquery.js"></script>
-  <script src="https://cloveroom.github.io//media/scripts/jquery-migrate-1.2.1.min.js"></script>
-  <script src="https://cloveroom.github.io//media/scripts/jquery.appear.js"></script>
-
-
- </body>
+  </body>
 </html>
