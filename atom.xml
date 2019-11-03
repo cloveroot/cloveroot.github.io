@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cloveroom.github.io/</id>
+    <id>https://cloveroot.github.io/</id>
     <title>Clover的岁月</title>
-    <updated>2019-10-04T09:14:35.860Z</updated>
+    <updated>2019-11-03T03:26:44.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cloveroom.github.io/"/>
-    <link rel="self" href="https://cloveroom.github.io//atom.xml"/>
+    <link rel="alternate" href="https://cloveroot.github.io/"/>
+    <link rel="self" href="https://cloveroot.github.io//atom.xml"/>
     <subtitle>智者乐山  仁者乐水</subtitle>
-    <logo>https://cloveroom.github.io//images/avatar.png</logo>
-    <icon>https://cloveroom.github.io//favicon.ico</icon>
+    <logo>https://cloveroot.github.io//images/avatar.png</logo>
+    <icon>https://cloveroot.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Clover的岁月</rights>
     <entry>
         <title type="html"><![CDATA[AMD:拒绝空头支票！锐龙优化后游戏性能爆涨28%]]></title>
-        <id>https://cloveroom.github.io//post/amdju-jue-kong-tou-zhi-piao-rui-long-you-hua-hou-you-xi-xing-neng-bao-zhang-28</id>
-        <link href="https://cloveroom.github.io//post/amdju-jue-kong-tou-zhi-piao-rui-long-you-hua-hou-you-xi-xing-neng-bao-zhang-28">
+        <id>https://cloveroot.github.io//post/amdju-jue-kong-tou-zhi-piao-rui-long-you-hua-hou-you-xi-xing-neng-bao-zhang-28</id>
+        <link href="https://cloveroot.github.io//post/amdju-jue-kong-tou-zhi-piao-rui-long-you-hua-hou-you-xi-xing-neng-bao-zhang-28">
         </link>
         <updated>2019-10-03T08:57:01.000Z</updated>
         <content type="html"><![CDATA[<p>众所周知，早在前年2月AMD Ryzen系列CPU发布之初就面临着两个最大的问题！其一为内存兼容性问题，其二便是游戏性能问题了。而彼时AMD也确实有针对游戏优化问题做过声明，称会持续加强和游戏厂商之间的合作，不断优化Ryzen处理器在游戏中的性能表现！如今看来，AMD确实所言非虚！<br>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[巧用橘皮自制超强去污水]]></title>
-        <id>https://cloveroom.github.io//post/qiao-yong-ju-pi-zi-zhi-chao-qiang-qu-wu-shui</id>
-        <link href="https://cloveroom.github.io//post/qiao-yong-ju-pi-zi-zhi-chao-qiang-qu-wu-shui">
+        <id>https://cloveroot.github.io//post/qiao-yong-ju-pi-zi-zhi-chao-qiang-qu-wu-shui</id>
+        <link href="https://cloveroot.github.io//post/qiao-yong-ju-pi-zi-zhi-chao-qiang-qu-wu-shui">
         </link>
         <updated>2017-07-03T08:51:53.000Z</updated>
         <content type="html"><![CDATA[<p>剩的橘子皮大伙是不是随手就丢掉了？其实用它煮出来的水，擦洗污渍效果非常好，还带有淡淡的水果香呢！这不是什么最新品牌的清洁剂，橘皮就有这种神奇效果！<br>
@@ -38,8 +38,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[三星群龙无首，大型投资规划停摆！韩媒：恐陷危机]]></title>
-        <id>https://cloveroom.github.io//post/san-xing-qun-long-wu-shou-da-xing-tou-zi-gui-hua-ting-bai-han-mei-kong-xian-wei-ji</id>
-        <link href="https://cloveroom.github.io//post/san-xing-qun-long-wu-shou-da-xing-tou-zi-gui-hua-ting-bai-han-mei-kong-xian-wei-ji">
+        <id>https://cloveroot.github.io//post/san-xing-qun-long-wu-shou-da-xing-tou-zi-gui-hua-ting-bai-han-mei-kong-xian-wei-ji</id>
+        <link href="https://cloveroot.github.io//post/san-xing-qun-long-wu-shou-da-xing-tou-zi-gui-hua-ting-bai-han-mei-kong-xian-wei-ji">
         </link>
         <updated>2017-06-10T08:54:39.000Z</updated>
         <content type="html"><![CDATA[<p>三星电子（Samsung Electronics）今年第二季缴出亮眼成绩单，营业利益创下历史高，一口气超越苹果（Apple Inc.）。然而，三星外在亮眼，内部却问题丛生，还得面对政府可能加税的疑虑，危机阴影逐渐垄罩。<br>
@@ -52,8 +52,8 @@ Business Korea 28 日报导，三星 27 日公布的第二季营益多达 14.1 �
     </entry>
     <entry>
         <title type="html"><![CDATA[三霄黄河阵]]></title>
-        <id>https://cloveroom.github.io//post/san-xiao-huang-he-zhen</id>
-        <link href="https://cloveroom.github.io//post/san-xiao-huang-he-zhen">
+        <id>https://cloveroot.github.io//post/san-xiao-huang-he-zhen</id>
+        <link href="https://cloveroot.github.io//post/san-xiao-huang-he-zhen">
         </link>
         <updated>2016-10-14T08:46:57.000Z</updated>
         <content type="html"><![CDATA[<p>如果问读者朋友：封神大战中，阐教群仙遭遇最大挫败的战役是哪次？估计不少朋友会回答：诛仙剑阵战役或者万仙阵战役。<br>
@@ -78,8 +78,8 @@ Business Korea 28 日报导，三星 27 日公布的第二季营益多达 14.1 �
     </entry>
     <entry>
         <title type="html"><![CDATA[西游中为何只能道士求雨和尚却不能？这名神仙道破玄机！]]></title>
-        <id>https://cloveroom.github.io//post/xi-you-zhong-wei-he-zhi-neng-dao-shi-qiu-yu-he-shang-que-bu-neng-zhe-ming-shen-xian-dao-po-xuan-ji</id>
-        <link href="https://cloveroom.github.io//post/xi-you-zhong-wei-he-zhi-neng-dao-shi-qiu-yu-he-shang-que-bu-neng-zhe-ming-shen-xian-dao-po-xuan-ji">
+        <id>https://cloveroot.github.io//post/xi-you-zhong-wei-he-zhi-neng-dao-shi-qiu-yu-he-shang-que-bu-neng-zhe-ming-shen-xian-dao-po-xuan-ji</id>
+        <link href="https://cloveroot.github.io//post/xi-you-zhong-wei-he-zhi-neng-dao-shi-qiu-yu-he-shang-que-bu-neng-zhe-ming-shen-xian-dao-po-xuan-ji">
         </link>
         <updated>2016-10-08T09:07:36.000Z</updated>
         <content type="html"><![CDATA[<p>在西游世界中，不知大家注意没有，只有道士才能求下雨，和尚们是根本不行的。<br>
@@ -99,8 +99,8 @@ Business Korea 28 日报导，三星 27 日公布的第二季营益多达 14.1 �
     </entry>
     <entry>
         <title type="html"><![CDATA[PhotoShop CC 通过调整边缘抠图]]></title>
-        <id>https://cloveroom.github.io//post/photoshop-cc-tong-guo-diao-zheng-bian-yuan-kou-tu</id>
-        <link href="https://cloveroom.github.io//post/photoshop-cc-tong-guo-diao-zheng-bian-yuan-kou-tu">
+        <id>https://cloveroot.github.io//post/photoshop-cc-tong-guo-diao-zheng-bian-yuan-kou-tu</id>
+        <link href="https://cloveroot.github.io//post/photoshop-cc-tong-guo-diao-zheng-bian-yuan-kou-tu">
         </link>
         <updated>2015-10-09T08:40:55.000Z</updated>
         <content type="html"><![CDATA[<p>以前一直用 PhotoShop CS 的抽出滤镜抠图，今天安装了 PhotoShop CC ，第一件事就是学习抠图。看了一下滤镜菜单里面没有了抽出滤镜，网上查询了后才知这个系列的已经去除了抽出滤镜，使用了更简单的磁性套索+调整边缘代替。具体方法如下：<br>
@@ -113,8 +113,8 @@ Business Korea 28 日报导，三星 27 日公布的第二季营益多达 14.1 �
     </entry>
     <entry>
         <title type="html"><![CDATA[熊猫烧香]]></title>
-        <id>https://cloveroom.github.io//post/xiong-mao-shao-xiang</id>
-        <link href="https://cloveroom.github.io//post/xiong-mao-shao-xiang">
+        <id>https://cloveroot.github.io//post/xiong-mao-shao-xiang</id>
+        <link href="https://cloveroot.github.io//post/xiong-mao-shao-xiang">
         </link>
         <updated>2014-09-10T08:59:14.000Z</updated>
         <content type="html"><![CDATA[<p>“熊猫烧香”，跟灰鸽子不同，是一款拥有自动传播、自动感染硬盘能力和强大的破坏能力的病毒，它不但能感染系统中exe，com，pif，src，html，asp等文件，它还能中止大量的反病毒软件进程并且会删除扩展名为gho的文件。<br>
@@ -129,8 +129,8 @@ Business Korea 28 日报导，三星 27 日公布的第二季营益多达 14.1 �
     </entry>
     <entry>
         <title type="html"><![CDATA[学 Java 网络爬虫，需要哪些基础知识？]]></title>
-        <id>https://cloveroom.github.io//post/xue-java-wang-luo-pa-chong-xu-yao-na-xie-ji-chu-zhi-shi</id>
-        <link href="https://cloveroom.github.io//post/xue-java-wang-luo-pa-chong-xu-yao-na-xie-ji-chu-zhi-shi">
+        <id>https://cloveroot.github.io//post/xue-java-wang-luo-pa-chong-xu-yao-na-xie-ji-chu-zhi-shi</id>
+        <link href="https://cloveroot.github.io//post/xue-java-wang-luo-pa-chong-xu-yao-na-xie-ji-chu-zhi-shi">
         </link>
         <updated>2014-05-07T03:06:07.000Z</updated>
         <content type="html"><![CDATA[<p>说起网络爬虫，大家想起的估计都是 Python ，诚然爬虫已经是 Python 的代名词之一，相比 Java 来说就要逊色不少。有不少人都不知道 Java 可以做网络爬虫，其实 Java 也能做网络爬虫而且还能做的非常好，在开源社区中有不少优秀的 Java 网络爬虫框架，例如 webmagic 。我的第一份正式工作就是使用 webmagic 编写数据采集程序，当时参与了一个舆情分析系统的开发，这里面涉及到了大量网站的新闻采集，我们就使用了 webmagic 进行采集程序的编写，由于当时不知道其设计原理，使用起来还是走了不少弯路，其实 webmagic 的设计借鉴了 Scrapy ，所以它也能像 Scrapy 一样强大，关于 webmagic 框架我们将在后续展开详细的讨论。<br>
